@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project4/blob/main/life%20expectancy.ipynb">Telecom Call Center Trends Dashboard</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project7/blob/main/PwC.pbix">Telecom Call Center Trends Dashboard</a></h1>
 <h2>Overview</h2>
 In the competitive telecom industry, understanding customer needs and service performance is crucial. A leading telecom company required an insightful dashboard to visualize call centre trends and provide actionable insights into customer and agent behaviors. The goal was to create a comprehensive and interactive Power BI dashboard that captures key metrics and trends over time.
 
